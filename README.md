@@ -54,15 +54,9 @@ For each problem, the participants will be given a dataset to train their models
 ## 4. Evaluation Metrics:
 <p align="justify">
 The models will be evaluated using the following metrics:
-
-$$ Recall = {TP \over TP + FN} $$
-
-$$ Precision = {TP \over TP + FP} $$
-
-$$ IoU = {TP \over TP + FP + FN} $$
-
-$$ F1 = {2 * Precision * Recall \over Precision + Recall} $$
 </p>  
+
+![Metrics](images/metrics.png)
 
 ## 5. Prizes and Certificates:
 <p align="justify">
