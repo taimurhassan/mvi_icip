@@ -1,4 +1,6 @@
 # Machine Vision Innovation (MVI) Tournament
+# IEEE International Conference on Image Processing (ICIP), 2024
+
 <p align="justify">
 The aim of the machine vision innovation (MVI) tournament is to foster recent advances in image processing, computer vision, and machine learning to solve different open-ended real-world challenges. The participants within the tournament will be solving one of the four problems described below within the given time duration. The best three teams with the cash prizes, whereas all the participating teams will be given certificates. 
 </p>
@@ -65,19 +67,23 @@ $$ F1 = {2 * Precision * Recall \over Precision + Recall} $$
 ## 5. Prizes and Certificates:
 <p align="justify">
 The top-3 teams will be given cash prizes, whereas all the participating teams will be given certificates of appreciation. The distribution of cash prizes w.r.t winning order are given below:
-1st Position (Winner): $2,000
-2nd Position (1st Runner-Up): $1,250
-3rd Position (2nd Runner-Up): $750
+
+ - 1st Position (Winner): $2,000
+ - 2nd Position (1st Runner-Up): $1,250
+ - 3rd Position (2nd Runner-Up): $750
+
 </p>
 
 ## 6. Timeline:
 <p align="justify">
-October 27th, 2024, 8:00AM-10:30AM: Registration and Breakfast, Problem Selection and Registration Closure (Phase-1)
-October 27th, 2024, 2:00PM-5:00PM: Training Dataset Release and Day Closure (Phase-1)
-October 28th, 2024, 8:00AM-5:00AM: Solution Preparation by the Teams (Phase-2)
-October 29th, 2024, 10:00AM: Submission of Code and Model Weights (Phase-2)
-October 29th, 2024, 5:00PM: Snacks and Results Announcement (Phase-2)
-October 30th, 2024, 5:00PM: Prize and Certificates Distribution Ceremony 
+
+ - October 27th, 2024, 8:00AM-10:30AM: Registration and Breakfast, Problem Selection and Registration Closure (Phase-1)
+ - October 27th, 2024, 2:00PM-5:00PM: Training Dataset Release and Day Closure (Phase-1)
+ - October 28th, 2024, 8:00AM-5:00AM: Solution Preparation by the Teams (Phase-2)
+ - October 29th, 2024, 10:00AM: Submission of Code and Model Weights (Phase-2)
+ - October 29th, 2024, 5:00PM: Snacks and Results Announcement (Phase-2)
+ - October 30th, 2024, 5:00PM: Prize and Certificates Distribution Ceremony 
+
 </p>
 
 ## 7. Eligibility Criteria:
@@ -87,19 +93,18 @@ Only students can register for the tournament in the form of teams. A single tea
 
 ## 8. Registration:
 <p align="justify">
-IEEE Student Member
-SPS Student Member 
-Student Non-Member
-MVI Tournament (Deadline: October 27th, 2024, 10:30AM)
-Free
-Free
-Free
+
+|   | IEEE Student Member | SPS Student Member | Student Non-Member |
+| ------------- | ------------- | ------------- | ------------- |
+| MVI Tournament (Deadline: October 27th, 2024, 10:30AM)  | Free  | Free  | Free  |
+
 </p>
 
 ## 9. Organizers:
-Dr. Taimur Hassan, ECE Department, Abu Dhabi University, UAE
-Prof. Zhu Li, Department of Computer Science and Electrical Engineering, UMKC, USA
-Dr. Samet Akcay, R&D Division, Intel Corporation, UK
-Dr. Khawar Abbas, VLSI Design and Fabrication Department, Intel Corporation, USA
-Prof. Jorge Dias, Department of Electrical Engineering, Khalifa University, UAE
+
+- Dr. Taimur Hassan, ECE Department, Abu Dhabi University, UAE
+- Prof. Zhu Li, Department of Computer Science and Electrical Engineering, UMKC, USA
+- Dr. Samet Akcay, R&D Division, Intel Corporation, UK
+- Dr. Khawar Abbas, VLSI Design and Fabrication Department, Intel Corporation, USA
+- Prof. Jorge Dias, Department of Electrical Engineering, Khalifa University, UAE
  
