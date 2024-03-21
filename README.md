@@ -1,5 +1,5 @@
 # Machine Vision Innovation (MVI) Tournament
-# IEEE International Conference on Image Processing (ICIP), 2024
+IEEE International Conference on Image Processing (ICIP), 2024
 
 <p align="justify">
 The aim of the machine vision innovation (MVI) tournament is to foster recent advances in image processing, computer vision, and machine learning to solve different open-ended real-world challenges. The participants within the tournament will be solving one of the four problems described below within the given time duration. The best three teams with the cash prizes, whereas all the participating teams will be given certificates. 
