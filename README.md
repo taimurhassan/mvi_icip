@@ -13,19 +13,19 @@ Unmanned Aerial Vehicles (UAVs) play a crucial role in various applications, inc
 This proposal aims to address the issue of ArduCopter sensory failures through the utilization of state-of-the-art signal processing, image processing, and machine learning techniques. We will leverage a comprehensive dataset that includes a variety of sensory inputs, encompassing accelerometer readings, gyroscope data, camera images, and other relevant information.
 </p>  
 
-## Problem-2: Detecting Structural Cracks and Disorientations in Buildings and Construction Sites Using Visual Tactile Information
+## Problem-2: Detecting Structural Cracks and Disorientations in Buildings and Construction Sites 
 <p align="justify">
-Ensuring the structural integrity and safety of buildings and construction sites is paramount in urban development. This proposal aims to address this critical aspect by leveraging visual tactile information to detect structural cracks and disorientations. Participants will be provided with a unique dataset that integrates visual and tactile data collected from various construction scenarios. The challenge will require participants to design innovative solutions using state-of-the-art image processing, computer vision, and machine learning schemes.
+Ensuring the structural integrity and safety of buildings and construction sites is paramount in urban development. This proposal aims to address this critical aspect by detecting structural cracks and disorientations. Participants will be provided with a unique dataset that integrates visual data collected from various construction scenarios. The challenge will require participants to design innovative solutions using state-of-the-art image processing, computer vision, and machine learning schemes.
 </p>  
 
-## Problem-3: Detecting Crop Ripening Conditions Using Visual Tactile Information
+## Problem-3: Crops Recognition Using Visual Tactile Information
 <p align="justify">
-Precision agriculture is at the forefront of modern farming practices, and the accurate assessment of crop ripening conditions is crucial for optimizing yields. This proposal aims to address this agricultural imperative by leveraging visual tactile information for the detection of crop ripening conditions. Participants will be provided with an extensive dataset that includes RGB images and tactile sensor readings collected from various crops at different stages of ripening. The challenge described in this proposal requires participants to design innovative solutions utilizing state-of-the-art image processing, computer vision, and machine learning schemes.
+Precision agriculture is at the forefront of modern farming practices, and the accurate assessment of crop ripening conditions is crucial for optimizing yields. This proposal aims to address this agricultural imperative by leveraging visual tactile information to recognize crops under various ripening conditions. Participants will be provided with the dataset collected from different crops at different stages of ripening. The challenge described in this proposal requires participants to design innovative solutions utilizing state-of-the-art image processing, computer vision, and machine learning schemes.
 </p>  
 
 ## Problem-4: Detecting Aquatic Defects Using Underwater Imagery
 <p align="justify">
-The health of aquatic environments is critical for ecological balance and human well-being. This conference challenge aims to address this concern by focusing on the detection of aquatic defects through the analysis of underwater imagery. Participants will be provided with a specialized dataset comprising underwater images captured in various aquatic environments. The challenge calls for innovative solutions utilizing state-of-the-art image processing, computer vision, and machine learning schemes to detect and classify aquatic defects.
+The health of aquatic environments is critical for ecological balance and human well-being. This conference challenge aims to address this concern by focusing on the detection of aquatic defects through the analysis of underwater imagery. Participants will be provided with a specialized dataset comprising underwater images captured in various aquatic environments. The challenge calls for innovative solutions utilizing state-of-the-art image processing, computer vision, and machine learning schemes to detect different types of aquatic defects.
 </p>  
 
 ## 2. Tournament Phases:
