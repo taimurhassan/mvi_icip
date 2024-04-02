@@ -1,5 +1,5 @@
 <p align="justify">
-The aim of the machine vision innovation (MVI) tournament is to foster recent advances in image processing, computer vision, and machine learning to solve different open-ended real-world challenges. The participants within the tournament will be solving one of the four problems described below within the given time duration. The best three teams with the cash prizes, whereas all the participating teams will be given certificates. 
+The aim of the Machine Vision Innovation (MVI) Tournament is to foster recent advances in image processing, computer vision, and machine learning to solve different open-ended real-world challenges. The participants will be solving one of the four problems described below. The best three teams will be awarded a cash prize, whereas all participating teams will be given certificates.  
 </p>
 
 ## 1. Problems:
