@@ -84,6 +84,9 @@ Only students can register for the tournament in the form of teams. A single tea
 | ------------- | ------------- | ------------- | ------------- |
 | MVI Tournament (Deadline: October 27th, 2024, 10:30AM)  | Free  | Free  | Free  |
 
+Use the following form to complete the registration before the deadline (Google Sign-in Required).
+[Registration Form](https://forms.gle/4kwGLyhGWfu2PVxY6)
+
 ## 9. Important Information:
 
 Please note that the organizers will not be providing any hardware resources for model training, and validation. The teams will need to use their own hardware setup for training the models by accessing it through remote connection during the tournament. If any team lacks hardware resources in their lab/ university, then they are allowed to use free version of Google Colab to train the model and share it with us for evaluation purposes. For model implementation, only PyTorch is allowed.
@@ -91,8 +94,5 @@ Please note that the organizers will not be providing any hardware resources for
 ## 10. Organizers:
 
 - Dr. Taimur Hassan, ECE Department, Abu Dhabi University, UAE
-- Prof. Zhu Li, Department of Computer Science and Electrical Engineering, UMKC, USA
-- Dr. Samet Akcay, R&D Division, Intel Corporation, UK
-- Dr. Khawar Abbas, VLSI Design and Fabrication Department, Intel Corporation, USA
 - Prof. Jorge Dias, Department of Electrical Engineering, Khalifa University, UAE
  
