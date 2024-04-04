@@ -7,10 +7,10 @@ The aim of the Machine Vision Innovation (MVI) Tournament is to foster recent ad
 There are four different problems within the tournament. The participants can choose one of them to solve within the prescribed time frame. The summary of each problem is presented below, whereas their detailed descriptions are uploaded on the tournament website:
 </p>  
 
-## Problem-1: Detecting and Predicting ArduCopter Sensory Failures through Advanced Signal and Image Processing with Machine Learning
+## Problem-1: Detecting and Predicting UAV Sensory Failures through Advanced Signal and Image Processing with Machine Learning
 <p align="justify">
-Unmanned Aerial Vehicles (UAVs) play a crucial role in various applications, including surveillance, agriculture, and disaster response. The reliability and performance of UAVs heavily depend on the accurate functioning of their sensors. The ArduCopter platform, a popular choice for UAV enthusiasts and professionals alike, relies on a diverse set of sensors for navigation and stability. Detecting and predicting sensory failures in real-time is paramount for ensuring the safe and efficient operation of these UAVs.
-This proposal aims to address the issue of ArduCopter sensory failures through the utilization of state-of-the-art signal processing, image processing, and machine learning techniques. We will leverage a comprehensive dataset that includes a variety of sensory inputs, encompassing accelerometer readings, gyroscope data, camera images, and other relevant information.
+Unmanned Aerial Vehicles (UAVs) play a crucial role in various applications, including surveillance, agriculture, and disaster response. The reliability and performance of UAVs heavily depend on the accurate functioning of their sensors. Detecting and predicting sensory failures in real-time is paramount for ensuring the safe and efficient operation of these UAVs.
+This proposal aims to address the issue of UAV sensory failures through the utilization of state-of-the-art signal processing, image processing, and machine learning techniques. We will leverage a comprehensive dataset that includes a variety of sensory inputs, encompassing accelerometer readings, gyroscope data, camera images, and other relevant information.
 </p>  
 
 ## Problem-2: Detecting Structural Cracks and Disorientations in Buildings and Construction Sites 
@@ -20,7 +20,7 @@ Ensuring the structural integrity and safety of buildings and construction sites
 
 ## Problem-3: Crops Recognition Using Visual Tactile Information
 <p align="justify">
-Precision agriculture is at the forefront of modern farming practices, and the accurate assessment of crop ripening conditions is crucial for optimizing yields. This proposal aims to address this agricultural imperative by leveraging visual tactile information to recognize crops under various ripening conditions. Participants will be provided with the dataset collected from different crops at different stages of ripening. The challenge described in this proposal requires participants to design innovative solutions utilizing state-of-the-art image processing, computer vision, and machine learning schemes.
+Precision agriculture is at the forefront of modern farming practices, and the accurate assessment of crops condition is crucial for optimizing yields. This proposal aims to address this agricultural imperative by leveraging visual tactile information to recognize crops under various development conditions. Participants will be provided with the dataset collected from different crops. The challenge described in this proposal requires participants to design innovative solutions utilizing state-of-the-art image processing, computer vision, and machine learning schemes.
 </p>  
 
 ## Problem-4: Detecting Aquatic Defects Using Underwater Imagery
