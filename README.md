@@ -94,5 +94,6 @@ Please note that the organizers will not be providing any hardware resources for
 ## 10. Organizers:
 
 - Dr. Taimur Hassan, ECE Department, Abu Dhabi University, UAE
+- Prof. Zhu Li, Department of Computer Science and Electrical Engineering, UMKC, USA
 - Prof. Jorge Dias, Department of Electrical Engineering, Khalifa University, UAE
  
