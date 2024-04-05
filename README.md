@@ -95,5 +95,10 @@ Please note that the organizers will not be providing any hardware resources for
 
 - Dr. Taimur Hassan, ECE Department, Abu Dhabi University, UAE
 - Prof. Zhu Li, Department of Computer Science and Electrical Engineering, UMKC, USA
+- Dr. Samet Akcay, R&D Division, Intel Corporation, UK
+- Prof. Mohammed A. Ghazal, ECE Department, Abu Dhabi University, UAE
 - Prof. Jorge Dias, Department of Electrical Engineering, Khalifa University, UAE
- 
+
+## 11. Contact Details:
+In case of any questions, please feel free to contact us at: taimur.hassan@adu.ac.ae 
+
