@@ -93,13 +93,13 @@ Please note that the organizers will not be providing any hardware resources for
 
 ## 10. Organizers:
 
-- Dr. Taimur Hassan, Department of Electrical and Computer Engineering, Abu Dhabi University, UAE
-- Dr. Samet Akcay, R&D Division, Intel, UK
-- Prof. Zhu Li, Department of Computer Science and Electrical Engineering, UMKC, USA
-- Prof. Mohammed A. Ghazal, Department of Electrical and Computer Engineering, Abu Dhabi University, UAE
-- Prof. Naoufel Werghi, Department of Computer Science, Khalifa University, UAE
-- Prof. Mohammed Bennamoun, Department of Computer and Software Engineering, University of Western Australia, Australia
-- Prof. Jorge Dias, Department of Electrical Engineering, Khalifa University, UAE
+- Dr. Taimur Hassan, Abu Dhabi University, UAE
+- Dr. Samet Akcay, Intel, UK
+- Prof. Zhu Li, University of Missouri - Kansas City, USA
+- Prof. Mohammed A. Ghazal, Abu Dhabi University, UAE
+- Prof. Jorge Dias, Khalifa University, UAE
+- Prof. Naoufel Werghi, Khalifa University, UAE
+- Prof. Mohammed Bennamoun, University of Western Australia, Australia
 
 ## 11. Contact Details:
 In case of any questions, please feel free to contact us at: taimur.hassan@adu.ac.ae 
