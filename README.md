@@ -79,13 +79,7 @@ Only students can register for the tournament in the form of teams. A single tea
 </p>
 
 ## 8. Registration:
-
-|   | IEEE Student Member | SPS Student Member | Student Non-Member |
-| ------------- | ------------- | ------------- | ------------- |
-| MVI Tournament (Deadline: October 27th, 2024, 10:30AM)  | Free  | Free  | Free  |
-
-Use the following form to complete the registration before the deadline (Google Sign-in Required).
-[Registration Form](https://forms.gle/4kwGLyhGWfu2PVxY6)
+Registration is CLOSED.
 
 ## 9. Important Information:
 
