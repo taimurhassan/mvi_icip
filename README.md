@@ -7,25 +7,25 @@ The aim of the Machine Vision Innovation (MVI) Tournament is to foster recent ad
 There are four different problems within the tournament. The participants can choose one of them to solve within the prescribed time frame. The summary of each problem is presented below, whereas their detailed descriptions are uploaded on the tournament website:
 </p>  
 
-## Problem-1: Detecting and Predicting UAV Sensory Failures through Advanced Signal and Image Processing with Machine Learning
+## Problem-1: Detecting and Predicting UAV Sensory Failures through Advanced Image Processing and Machine Learning
 <p align="justify">
 Unmanned Aerial Vehicles (UAVs) play a crucial role in various applications, including surveillance, agriculture, and disaster response. The reliability and performance of UAVs heavily depend on the accurate functioning of their sensors. Detecting and predicting sensory failures in real-time is paramount for ensuring the safe and efficient operation of these UAVs.
-This proposal aims to address the issue of UAV sensory failures through the utilization of state-of-the-art signal processing, image processing, and machine learning techniques. We will leverage a comprehensive dataset that includes a variety of sensory inputs, encompassing accelerometer readings, gyroscope data, camera images, and other relevant information.
+This problem is aimed to address the issue of UAV sensory failures through the utilization of state-of-the-art image processing, and machine learning techniques. 
 </p>  
 
-## Problem-2: Detecting Structural Cracks and Disorientations in Buildings and Construction Sites 
+## Problem-2: Detecting Structural Cracks in Buildings and Construction Sites 
 <p align="justify">
-Ensuring the structural integrity and safety of buildings and construction sites is paramount in urban development. This proposal aims to address this critical aspect by detecting structural cracks and disorientations. Participants will be provided with a unique dataset that integrates visual data collected from various construction scenarios. The challenge will require participants to design innovative solutions using state-of-the-art image processing, computer vision, and machine learning schemes.
+Ensuring the structural integrity and safety of buildings and construction sites is paramount in urban development. This problem is aimed to address this critical aspect by detecting structural cracks. Participants will be provided with a unique dataset that integrates visual data collected from various construction scenarios. The challenge will require participants to design innovative solutions using state-of-the-art image processing, computer vision, and machine learning schemes.
 </p>  
 
 ## Problem-3: Crops Recognition Using Visual Tactile Information
 <p align="justify">
-Precision agriculture is at the forefront of modern farming practices, and the accurate assessment of crops condition is crucial for optimizing yields. This proposal aims to address this agricultural imperative by leveraging visual tactile information to recognize crops under various development conditions. Participants will be provided with the dataset collected from different crops. The challenge described in this proposal requires participants to design innovative solutions utilizing state-of-the-art image processing, computer vision, and machine learning schemes.
+Precision agriculture is at the forefront of modern farming practices, and the accurate assessment of crops condition is crucial for optimizing yields. This problem is aimed to address this agricultural imperative by leveraging visual tactile information to recognize different crops. Participants will be provided with the dataset collected using different fruits and vegetatables. The challenge requires the participants to design innovative solutions utilizing state-of-the-art image processing, computer vision, and machine learning schemes.
 </p>  
 
 ## Problem-4: Detecting Aquatic Defects Using Underwater Imagery
 <p align="justify">
-The health of aquatic environments is critical for ecological balance and human well-being. This conference challenge aims to address this concern by focusing on the detection of aquatic defects through the analysis of underwater imagery. Participants will be provided with a specialized dataset comprising underwater images captured in various aquatic environments. The challenge calls for innovative solutions utilizing state-of-the-art image processing, computer vision, and machine learning schemes to detect different types of aquatic defects.
+The health of aquatic environments is critical for ecological balance and human well-being. This conference challenge aims to address this concern by focusing on the recognizing aquatic defects using underwater imagery. Participants will be provided with a specialized dataset comprising underwater images captured in various aquatic environments. The challenge calls for innovative solutions utilizing state-of-the-art image processing, computer vision, and machine learning schemes to recognize different types of aquatic defects.
 </p>  
 
 ## 2. Tournament Phases:
@@ -66,12 +66,11 @@ The top-3 teams will be given cash prizes, whereas all the participating teams w
 
 ## 6. Timeline:
 
-- October 27th, 2024, 8:00AM-10:30AM: Registration and Breakfast, Problem Selection and Registration Closure (Phase-1)
-- October 27th, 2024, 2:00PM-5:00PM: Training Dataset Release and Day Closure (Phase-1)
-- October 28th, 2024, 8:00AM-5:00AM: Solution Preparation by the Teams (Phase-2)
-- October 29th, 2024, 10:00AM: Submission of Code and Model Weights (Phase-2)
-- October 29th, 2024, 5:00PM: Snacks and Results Announcement (Phase-2)
-- October 30th, 2024, 5:00PM: Prize and Certificates Distribution Ceremony 
+- October 25th, 2024, Datasets Release Day
+- October 27th, 2024, 11:59PM (UAE Time): Codes and Models Submission Deadline  
+- October 29th, 2024, 11:59PM: Release of Evaluation Results on Test Datasets 
+- October 30th, 2024, 10:30AM-12:00PM, 2:30PM-4:00PM: Certificates Distribution during ICIP-2024
+- October 30th, 2024, 4:30PM-7:30PM: Winners Annoucement during ICIP-2024 Awards and Closing Ceremony  
 
 ## 7. Eligibility Criteria:
 <p align="justify">
@@ -83,7 +82,7 @@ Registration is CLOSED.
 
 ## 9. Important Information:
 
-Please note that the organizers will not be providing any hardware resources for model training, and validation. The teams will need to use their own hardware setup for training the models by accessing it through remote connection during the tournament. If any team lacks hardware resources in their lab/ university, then they are allowed to use free version of Google Colab to train the model and share it with us for evaluation purposes. For model implementation, only PyTorch is allowed.
+Please note that the organizers will not be providing any hardware resources for model training, and validation. The teams will need to use their own hardware setup for training the models. If any team lacks hardware resources in their lab/ university, then they are allowed to use free version of Google Colab to train the model and share it with us for evaluation purposes. For model implementation, both PyTorch and MATLAB is allowed.
 
 ## 10. Organizers:
 
