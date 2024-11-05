@@ -87,11 +87,14 @@ The tournament scoreboard is presented below:
 
 ![Metrics](images/score.png)
 
-## 10. Important Information:
+## 10. Certificate for Participants:
+The certificates can be downloaded from the following link: https://drive.google.com/drive/folders/1OVeG43XW6MyJhKhvWjsJsH0cWgCf-qgq?usp=sharing
+
+## 11. Important Information:
 
 Please note that the organizers will not be providing any hardware resources for model training, and validation. The teams will need to use their own hardware setup for training the models. If any team lacks hardware resources in their lab/ university, then they are allowed to use free version of Google Colab to train the model and share it with us for evaluation purposes. For model implementation, both PyTorch and MATLAB is allowed.
 
-## 11. Organizers:
+## 12. Organizers:
 
 - Dr. Taimur Hassan, Abu Dhabi University, UAE
 - Dr. Samet Akcay, Intel, UK
@@ -100,6 +103,6 @@ Please note that the organizers will not be providing any hardware resources for
 - Prof. Naoufel Werghi, Khalifa University, UAE
 - Prof. Mohammed Bennamoun, University of Western Australia, Australia
 
-## 12. Contact Details:
+## 13. Contact Details:
 In case of any questions, please feel free to contact us at: taimur.hassan@adu.ac.ae 
 
