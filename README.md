@@ -80,20 +80,26 @@ Only students can register for the tournament in the form of teams. A single tea
 ## 8. Registration:
 Registration is CLOSED.
 
-## 9. Important Information:
+## 9. Tournament Scoreboard:
+<p align="justify">
+The tournament scoreboard is presented below:
+</p>  
+
+![Metrics](images/score.png)
+
+## 10. Important Information:
 
 Please note that the organizers will not be providing any hardware resources for model training, and validation. The teams will need to use their own hardware setup for training the models. If any team lacks hardware resources in their lab/ university, then they are allowed to use free version of Google Colab to train the model and share it with us for evaluation purposes. For model implementation, both PyTorch and MATLAB is allowed.
 
-## 10. Organizers:
+## 11. Organizers:
 
 - Dr. Taimur Hassan, Abu Dhabi University, UAE
 - Dr. Samet Akcay, Intel, UK
 - Prof. Zhu Li, University of Missouri - Kansas City, USA
-- Prof. Mohammed A. Ghazal, Abu Dhabi University, UAE
 - Prof. Jorge Dias, Khalifa University, UAE
 - Prof. Naoufel Werghi, Khalifa University, UAE
 - Prof. Mohammed Bennamoun, University of Western Australia, Australia
 
-## 11. Contact Details:
+## 12. Contact Details:
 In case of any questions, please feel free to contact us at: taimur.hassan@adu.ac.ae 
 
